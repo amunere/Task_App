@@ -1,6 +1,6 @@
 # Task Application
 
-### Created using Flask, Vue.JS, Bootstrap
+### Created using Flask, Postgresql, Vue.JS, Bootstrap
 
 ## Main
 ![main](https://user-images.githubusercontent.com/2104734/202917447-731747ee-db75-4ee0-8ff2-85614f694030.png)
